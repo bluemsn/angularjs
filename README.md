@@ -16,3 +16,22 @@ function abc(a,b){
   return abc;
 }
 `````
+
+`````html
+<div class="a">
+  <div class="b">
+    <img src="" />
+    <a href="#" title>aaaaaaaaaaaaaaa</a>
+  <div>
+</div>
+`````
+
+
+`````css
+.a{
+  margin:0;
+  padding:0;
+  list-style:none;
+  
+}
+`````
